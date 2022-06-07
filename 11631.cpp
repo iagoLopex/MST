@@ -1,9 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-//vetor de pai
-
-
 
 int find(int k, int *c){
     if(c[k] == k){
